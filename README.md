@@ -21,12 +21,11 @@
 # Demonstração do projeto
 
 <p>Teste a aplicação clicando neste ícone do Netlify:</p>
-<<<<<<< HEAD
-<a href="https://search-movies-greatwhoone.netlify.app/">
-=======
 
+<a href="https://search-movies-greatwhoone.netlify.app/">
 <img alt="icon=netlify" title="GIF" src="./github/netlify-icon.png" width="50px" "/>
 </a>
+
 
 # Features
 
