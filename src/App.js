@@ -212,7 +212,6 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
     Actors: actors,
     Director: director,
     Genre: genre,
-    Language: language,
     Released: released,
   } = movie;
 
