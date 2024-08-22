@@ -69,7 +69,7 @@ npm install
 # Rode a aplicação
 npm start
 
-# O servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
+# O servidor iniciará na porta: 5173 - acesse <http://localhost:5173>
 ```
 
 # Tecnologias
