@@ -50,7 +50,7 @@
 Você vai ter que ter instalado na sua máquina as seguintes ferramentas:
 
 - [GIT](https://git-scm.com/)
-- [Node.js](https://git-scm.com/)
+- [Node.js](https://nodejs.org)
 
 Recomendo a utilização do [VS Code](https://code.visualstudio.com/) para editar o código.
 
